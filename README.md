@@ -9,6 +9,7 @@ This repo will contain all the links and reference materials to learn Kotlin and
 [Android studio download](https://developer.android.com/studio)
 
 What is the event about?
+
 Android Study Jams is a program hosted by Google DSC platform all around the world. This program is aimed to help you kick start your Android development career using Kotlin.
 What are the benefits?
 Learn to make Android Apps with Kotlin.
