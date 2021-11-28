@@ -3,10 +3,15 @@ This repo will contain all the links and reference materials to learn Kotlin and
 
 
 [Create google developer profile](https://developers.google.com/profile)
+
 [App submission guidelines](https://docs.google.com/document/d/1iL9QvmGskDU8MLwsAUDsq8WERrBvmjXVoW7CBgezyyU/edit?usp=sharing)
+
 [Main course link](https://developer.android.com/courses/android-basics-kotlin/course)
+
 [Kotlin Playground](https://play.kotlinlang.org)
+
 [Android studio download](https://developer.android.com/studio)
+
 
 What is the event about?
 
