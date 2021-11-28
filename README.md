@@ -12,6 +12,8 @@ This repo will contain all the links and reference materials to learn Kotlin and
 
 [Android studio download](https://developer.android.com/studio)
 
+[Jetbrains download](https://www.jetbrains.com/idea/download/#section=windows)
+
 
 What is the event about?
 
