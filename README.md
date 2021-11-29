@@ -14,6 +14,8 @@ This repo will contain all the links and reference materials to learn Kotlin and
 
 [Jetbrains download](https://www.jetbrains.com/idea/download/#section=windows)
 
+[PPT for the session](https://github.com/Google-Developer-Student-Club-SIT/Android-Study-Jams)
+
 
 What is the event about?
 
